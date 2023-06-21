@@ -1,7 +1,7 @@
 # Stellar game
 Using the N5110 LCD Display
 
-Stellar small game, control the plane to defeat the enemy
+Side-scrolling shooter
 
 Authored by:            Dr Wasabi
 
