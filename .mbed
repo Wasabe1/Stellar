@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/stellar_game]=066DFF565250898367132757
+DEVICE_TYPE[/home/studio/workspace/stellar_game]=connected
+TARGET=NUCLEO_L476RG
+TARGET_CODE=0765
